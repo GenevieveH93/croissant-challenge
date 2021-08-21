@@ -10,9 +10,10 @@ h1 {
   margin-bottom: 30px;
 }
 h2 {
-  font-size: 50px;
+  font-size: 70px;
   text-align: center;
   margin: 30px;
+  color: darkslategrey;
 }
 p {
   text-align: center;
