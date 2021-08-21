@@ -9,6 +9,11 @@ h1 {
   color: darkolivegreen;
   margin-bottom: 30px;
 }
+h2 {
+  font-size: 50px;
+  text-align: center;
+  margin: 30px;
+}
 p {
   text-align: center;
   color: rgb(0, 51, 0);
@@ -21,13 +26,13 @@ a {
 img {
   border-radius: 5px;
   max-width: 80%;
+  display: block;
+  margin: 10px auto;
 }
 .links {
   text-align: center;
   margin: 50px;
 }
 .links a {
-     padding: 0 20px;
+  padding: 0 20px;
 }
-.image {
-  text-align: center;
